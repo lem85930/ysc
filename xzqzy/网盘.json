@@ -44,7 +44,7 @@
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://xzqcsa.iepose.cn",
 				"tgsearch_media_url":"http://xzqcsa.iepose.cn",
-				"channellist":"alypzyhzq|1000,guaguale115|1000,vip115hot|1000,quck202|1000,Mbox115|1000,hao115|1000,XiangxiuNB|1000,SharePanBaidu|1000,wpzyhj|1000",
+				"channellist":"wandang1|1000,guaguale115|1000,quck202|1000,Mbox115|1000,hao115|1000,XiangxiuNB|1000,SharePanBaidu|1000,wpzyhj|1000",
 				"proxy":"noproxy",
 				"danmu":true
 				},
@@ -127,7 +127,7 @@
 "changeable":1,
 "filterable":1,
 "timeout":60,
-"ext":"./lib1/tokenm盒子1.json$$$https://woog.nxog.top$$$noproxy$$$1$$$./lib/wogg.json"
+"ext":"./lib1/tokenm盒子1.json$$$https://woog.nxog.eu.org/$$$noproxy$$$1$$$./lib/wogg.json"
 },
 		{
       "key": "焱焱",
@@ -1369,6 +1369,55 @@
 			}
 		}],
 "lives":[
+{
+				"name": "feiyang.tptv",
+				"type": 0,
+				"url": "http://127.0.0.1:35455/tptv.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+{
+				"name": "feiyang.allinone",
+				"type": 0,
+				"url": "http://127.0.0.1:35455/tv.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			
+			{
+				"name": "feiyang.bililive",
+				"type": 0,
+				"url": "http://127.0.0.1:35455/bililive.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "feiyang.huyayqk",
+				"type": 0,
+				"url": "http://127.0.0.1:35455/huyayqk.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "feiyang.douyuyqk",
+				"type": 0,
+				"url": "http://127.0.0.1:35455/douyuyqk.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "feiyang.yylunbo",
+				"type": 0,
+				"url": "http://127.0.0.1:35455/yylunbo.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
 			{
 				"name": "江阴",
 				"type": 0,
